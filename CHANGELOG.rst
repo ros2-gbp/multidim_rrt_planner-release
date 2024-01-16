@@ -2,6 +2,9 @@
 Changelog for package rrt_planner
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.4 (2024-01-16)
+------------------
+
 0.0.1 (2024-01-11)
 ------------------
 * Update README.md with C++ version link
