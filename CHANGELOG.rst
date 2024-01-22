@@ -2,6 +2,11 @@
 Changelog for package rrt_planner
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.5 (2024-01-22)
+------------------
+* Update CHANGELOG.rst to move 1.0.0 to 0.0.0
+* Contributors: David Dorf
+
 0.0.4 (2024-01-16)
 ------------------
 
@@ -16,7 +21,7 @@ Changelog for package rrt_planner
 * Update README.md
 * Contributors: David Dorf, daviddorf2023
 
-1.0.0 (2023-11-14)
+0.0.0 (2023-11-14)
 ------------------
 * Renaming to meet REP144
 * Update README.md with video
