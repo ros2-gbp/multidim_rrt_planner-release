@@ -2,8 +2,8 @@
 Changelog for package rrt_planner
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.5 (2024-01-22)
+------------------
 * Update CHANGELOG.rst to move 1.0.0 to 0.0.0
 * Contributors: David Dorf
 
