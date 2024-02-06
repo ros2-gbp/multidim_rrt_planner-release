@@ -2,8 +2,8 @@
 Changelog for package multidim_rrt_planner
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.7 (2024-02-05)
+------------------
 * Bugfixes after renaming. Builds and launches fine.
 * Rename to package name change
 * Contributors: daviddorf2023
