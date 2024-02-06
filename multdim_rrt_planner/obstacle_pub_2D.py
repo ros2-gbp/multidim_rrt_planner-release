@@ -3,7 +3,7 @@
 import rclpy
 from rclpy.node import Node
 from visualization_msgs.msg import Marker, MarkerArray
-from .submodules.Marker import Circle, Rectangle, create_marker
+from Marker import Circle, Rectangle, create_marker
 
 
 class ObstaclePublisher2D(Node):
