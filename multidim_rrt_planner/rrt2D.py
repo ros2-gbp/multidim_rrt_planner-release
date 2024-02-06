@@ -4,8 +4,8 @@ from visualization_msgs.msg import Marker, MarkerArray
 from geometry_msgs.msg import PoseStamped
 from nav_msgs.msg import Path, OccupancyGrid
 import numpy as np
-from TreeNode import TreeNode
-from Marker import Circle, Rectangle, create_marker
+from .TreeNode import TreeNode
+from .Marker import Circle, Rectangle, create_marker
 
 
 class RRT2DNode(Node):
