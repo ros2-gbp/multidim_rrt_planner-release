@@ -2,6 +2,12 @@
 Changelog for package multidim_rrt_planner
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* 2D launch example argument bugfix
+* Add service call to run RRT and updated documentation with optional examples.
+* Contributors: daviddorf2023
+
 0.0.7 (2024-02-05)
 ------------------
 * Bugfixes after renaming. Builds and launches fine.
