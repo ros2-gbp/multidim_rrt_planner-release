@@ -1,3 +1,26 @@
+## multidim_rrt_planner (iron) - 0.0.8-1
+
+The packages in the `multidim_rrt_planner` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron multidim_rrt_planner` on `Sat, 10 Feb 2024 19:28:51 -0000`
+
+The `multidim_rrt_planner` package was released.
+
+Version of package(s) in repository `multidim_rrt_planner`:
+
+- upstream repository: https://github.com/ros2-gbp/multidim_rrt_planner-release.git
+- release repository: https://github.com/ros2-gbp/multidim_rrt_planner-release.git
+- rosdistro version: `0.0.7-3`
+- old version: `0.0.7-3`
+- new version: `0.0.8-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## multidim_rrt_planner (iron) - 0.0.7-3
 
 The packages in the `multidim_rrt_planner` repository were released into the `iron` distro by running `/usr/bin/bloom-release --rosdistro iron multidim_rrt_planner` on `Tue, 06 Feb 2024 01:27:21 -0000`
